@@ -1,0 +1,1 @@
+DELETE FROM "das_db"."role" WHERE ("id" = '00000000-0000-0000-0000-000000000000' AND "name" = 'Placeholder' AND "description" IS NULL AND "perms" = 0 AND "readonly" = 't' AND "create_datetime" = 1679463950 AND "update_datetime" = 1679463960 AND "enabled" = 't');

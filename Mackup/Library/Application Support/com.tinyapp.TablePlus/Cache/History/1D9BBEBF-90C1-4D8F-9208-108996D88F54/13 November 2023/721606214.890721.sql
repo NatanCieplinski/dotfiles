@@ -1,0 +1,1 @@
+UPDATE "das_db"."user" SET "email" = 'admin@admin.com' WHERE "id" = 'a92f18e1-df7a-4e13-b11d-07c5e198a7e9';

@@ -1,0 +1,1 @@
+INSERT INTO "das_db"."role" ("id", "name", "description", "perms", "create_datetime", "update_datetime") VALUES ('kdywe543-bf3f-4263-b24a-7243dbb2bbf1', 'Test', 'Test description', 127, 1679463950, 1679463960);

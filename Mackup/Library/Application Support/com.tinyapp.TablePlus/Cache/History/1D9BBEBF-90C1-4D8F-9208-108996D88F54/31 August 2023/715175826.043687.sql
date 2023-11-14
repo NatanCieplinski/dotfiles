@@ -1,0 +1,10 @@
+UPDATE "das_db"."notification" SET "alert_status" = '1' WHERE "id" = '0645bab5-a448-40d7-8062-afee80cedace';
+UPDATE "das_db"."notification" SET "alert_status" = '2' WHERE "id" = '06120c80-bd44-4e90-92ff-35a6904b3dc6';
+UPDATE "das_db"."notification" SET "alert_status" = '3' WHERE "id" = '05a3e6f1-08ef-45e1-a3ca-9fafe2609efc';
+UPDATE "das_db"."notification" SET "alert_status" = '2' WHERE "id" = '04c8516a-1953-45cd-b6a9-8e16c53443d4';
+UPDATE "das_db"."notification" SET "alert_status" = '1' WHERE "id" = '056a5965-c6a2-4468-ac29-542684d76231';
+UPDATE "das_db"."notification" SET "alert_status" = '1' WHERE "id" = '0494c120-9047-4b1e-b0ed-a93189860e91';
+UPDATE "das_db"."notification" SET "alert_status" = '2' WHERE "id" = '03f98c46-02fe-44d7-bbf8-7a56088d81c8';
+UPDATE "das_db"."notification" SET "alert_status" = '3' WHERE "id" = '047fbc4d-96f1-4c4d-98e4-6d9774594a18';
+UPDATE "das_db"."notification" SET "alert_status" = '2' WHERE "id" = '03b8c2f0-80d1-4c69-b962-0a2ab984c5b7';
+UPDATE "das_db"."notification" SET "alert_status" = '1' WHERE "id" = '03a52ac1-f30a-4373-9ecd-d5b6197971a6';

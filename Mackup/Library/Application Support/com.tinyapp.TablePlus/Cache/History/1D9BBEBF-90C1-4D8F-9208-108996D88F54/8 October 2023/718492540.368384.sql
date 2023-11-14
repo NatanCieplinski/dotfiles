@@ -1,0 +1,3 @@
+UPDATE "das_db"."notification" SET "device_id" = 'f47ac10b-58cc-4372-a567-0e02b2c3d472' WHERE "id" = '8d60d121-d4de-468c-8cce-567b423ef933';
+UPDATE "das_db"."notification" SET "device_id" = 'f47ac10b-58cc-4372-a567-0e02b2c3d472' WHERE "id" = '6d52ba85-7cce-4d07-b8cd-ae534d26bd6a';
+UPDATE "das_db"."notification" SET "device_id" = 'f47ac10b-58cc-4372-a567-0e02b2c3d472' WHERE "id" = '74d5af10-a221-4a44-a7e0-4dc97241456e';

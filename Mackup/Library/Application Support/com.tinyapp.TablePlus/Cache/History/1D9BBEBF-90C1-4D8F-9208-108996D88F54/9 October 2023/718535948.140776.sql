@@ -1,0 +1,1 @@
+UPDATE "das_db"."device_status" SET "device_id" = 'f47ac10b-58cc-4372-a567-0e02b2c3d472' WHERE "id" = 'b47ac10b-58cc-4372-a567-0e02b2c3d471';

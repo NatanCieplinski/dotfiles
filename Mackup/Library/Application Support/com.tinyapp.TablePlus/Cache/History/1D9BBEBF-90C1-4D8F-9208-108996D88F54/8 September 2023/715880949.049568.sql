@@ -1,0 +1,1 @@
+UPDATE "das_db"."distribution_list" SET "url" = ' ' WHERE "id" = '44444544-4444-4444-4444-444444444444';

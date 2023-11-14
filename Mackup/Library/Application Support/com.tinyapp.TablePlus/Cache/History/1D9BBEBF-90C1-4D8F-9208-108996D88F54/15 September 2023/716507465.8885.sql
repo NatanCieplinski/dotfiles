@@ -1,0 +1,1 @@
+UPDATE "das_db"."notification" SET "target" = '100.12.136.181' WHERE "id" = '00642c42-5de7-4fa6-82f5-e78dbee16886';

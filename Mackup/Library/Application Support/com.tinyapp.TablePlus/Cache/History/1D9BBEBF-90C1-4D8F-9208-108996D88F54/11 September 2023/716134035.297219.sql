@@ -1,0 +1,1 @@
+DELETE FROM "das_db"."user_role" WHERE ("id" = '3220d613-1586-46bc-bc34-c89b58d43fca' AND "tenant_id" = '11111111-1111-1111-1111-111111111111' AND "user_id" = '7f5a73b5-3df2-4d38-8b42-08393a5c5a55' AND "role_id" = '00000000-0000-0000-0000-000000000000' AND "create_datetime" = 1694440848325815051 AND "update_datetime" = 1694440848325815051);

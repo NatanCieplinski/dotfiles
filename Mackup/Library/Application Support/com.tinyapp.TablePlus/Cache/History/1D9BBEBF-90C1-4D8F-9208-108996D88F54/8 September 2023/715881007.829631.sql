@@ -1,0 +1,1 @@
+UPDATE "das_db"."distribution_list" SET "emails" = '{}' WHERE "id" = '44444444-4444-4444-4444-444444444444';

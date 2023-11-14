@@ -1,0 +1,1 @@
+INSERT INTO "das_db"."role" ("id", "name", "perms", "readonly", "create_datetime", "update_datetime", "enabled") VALUES ('00000000-0000-0000-0000-000000000000', 'Placeholder', 0, 't', 1679463950, 1679463960, 't');

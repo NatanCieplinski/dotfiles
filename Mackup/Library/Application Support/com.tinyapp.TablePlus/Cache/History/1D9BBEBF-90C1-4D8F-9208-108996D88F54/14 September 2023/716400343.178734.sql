@@ -1,0 +1,1 @@
+UPDATE "das_db"."role" SET "perms" = 511 WHERE "id" = '59a9b9d2-7b95-4f71-a43d-5efb1446116b' AND "name" = 'Admin' AND "description" = 'Administrator role' AND "perms" = 4194300 AND "readonly" = 't' AND "create_datetime" = 1679463910 AND "update_datetime" = 1679463920;

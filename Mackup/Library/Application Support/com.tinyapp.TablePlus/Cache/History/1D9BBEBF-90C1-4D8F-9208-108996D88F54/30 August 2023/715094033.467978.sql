@@ -1,0 +1,2 @@
+UPDATE "das_db"."device" SET "architecture" = 2 WHERE "id" = 'f47ac10b-58cc-4372-a567-0e02b2c3d475';
+UPDATE "das_db"."device" SET "architecture" = 2 WHERE "id" = 'f47ac10b-58cc-4372-a567-0e02b2c3d476';

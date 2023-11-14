@@ -1,0 +1,1 @@
+UPDATE "das_db"."notification" SET "device_id" = 'f47ac10b-58cc-4372-a567-0e02b2c3d472' WHERE "id" = '1c5d4d82-861d-42a4-9721-241c01c646b7';
